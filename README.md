@@ -1,3 +1,3 @@
 polar-facility-world-demo-build
 ===============================
-README text here.
+`polar-facility-world-demo-build` is a CodeSpells mod! Learn more at https://codespells.org.
